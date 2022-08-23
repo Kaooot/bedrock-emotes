@@ -1,5 +1,4 @@
 # bedrock-emotes
-
 A collection of all Minecraft: Bedrock Edition emotes.
 
 # Emotes
@@ -54,9 +53,8 @@ A collection of all Minecraft: Bedrock Edition emotes.
 | Hand Stand | 5dd129f9-cfc3-4fc1-b464-c66a03061545 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/8339eff5-b128-485c-ab6e-3013731b3a78/hand_stand_thumbnail_0.png) |
 | Hard Landing | c2b9dd03-7258-4813-b6f5-37ef9b4a3326 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/f344d5d6-7408-4ebd-bc0d-98da54307584/halo4_cover_pose_thumbnail_0.png) |
 | Hitting the Omnitrix | 1e30e8f4-2991-4aac-a58a-a6bf90a080c5 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/bbf971ca-c37c-4f6f-a090-2658757f87ab/animation.benten_its_not_working_thumbnail_0.png) |
-| Hooray! | c4b5b251-24d3-43eb-9c05-46be246aeefb | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/793dea4d-6851-4c55-8af9-9f3e10f066a1/cheer_default_thumbnail_0.png) |
-| Hoppin' | fb9b884a-b217-46a2-85fd-d3ab0f2f33e6 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a1d92693-bfe7-4245-a6bc-4e9659c478de/frog_jump_thumbnail_0.png) |
 | Hugging Themselves | 54e2209a-41ec-4502-8500-dd51e569ab69 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/15c61fa0-ebe5-4ce4-91e2-e76e4a0cb37d/hug_yourself_thumbnail_0.png) |
+| Hungry | d24f27c0-6bc8-4193-842c-8e33fdae5e8e | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/5687e6db-dda4-4b49-a35a-69df57b3495e/hungry_thumbnail_0.png) |
 | Intercom and Attack | 87c039b7-7bdc-45d1-8684-e940a131ec0a | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0e0cdbf6-7638-4f6b-b0eb-1629919dccc2/intercom_and_attack_thumbnail_0.png) |
 | Jumping Jacks | b13966b3-1f7c-4f07-8ab8-9d85170203f5 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/65aec57e-0baf-45c3-95be-1c8eaf029850/jumping_jacks_thumbnail_0.png) |
 | Kneeling | 24444aea-cb6e-451f-90fc-b74e57cc7c5d | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2a5eb55d-56f0-4a8a-b8e4-57618a401480/roleplay_getting_knighted_thumbnail_0.png) |
@@ -79,7 +77,7 @@ A collection of all Minecraft: Bedrock Edition emotes.
 | Ryu Guarding | 0c141653-1166-448b-87a2-38d0679bb549 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d87c0f8a-61a5-457e-a45d-ae987d63371f/ryu_idle_thumbnail_0.png) |
 | Sad Sigh | 98a68056-e025-4c0f-a959-d6e330ccb5f5 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/822467ad-7cb5-475b-9d63-21c57414b4af/emotional_sad_thumbnail_0.png) |
 | Salsa Dancing | 6bcf44bd-ff8a-48a5-9254-3983a0b0f702 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/439d2953-413b-46e9-aa50-d4ad3ba7721b/salsa_thumbnail_0.png) |
-| Saluting | 1ea5f771-827d-408d-ae8e-1af00d7aa416 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/ed9bca8d-4805-4fb1-92df-5de4d8bfe157/salute_thumbnail_0.png) |
+| Saluting | 1ea5f771-827d-408d-ae8e-1af00d7aa416 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/4cd08458-103c-4082-bd1a-df26e54c3407/salute_thumbnail_0.png) |
 | Shrug | 4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/639fc564-ac65-4325-8dbb-03aa6c3ad30c/communication_shrug_thumbnail_0.png) |
 | Shy Giggling | f1e18201-729d-472d-9e4f-5cdd7f6bba0c | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0a598772-bd36-45df-9698-b6d8c5dbe659/communication_giggle_thumbnail_0.png) |
 | Sid Dance | 946f04ea-8ff0-416e-a66d-8b0d0751e8bf | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/e717813a-b9dc-4b05-a0da-d932bf31d7b7/sid_dance_thumbnail_0.png) |
