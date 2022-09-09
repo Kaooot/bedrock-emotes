@@ -7,8 +7,8 @@ A collection of all Minecraft: Bedrock Edition emotes.
 |------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Abduction? | 18891e6c-bb3d-47f6-bc15-265605d86525 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/cf2b8ada-6453-4c97-b70f-446844962005/beam_me_up_thumbnail_0.png) |
 | Acting Like a Dragon | c2a47805-c792-4882-a56d-17c80b6c57a8 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/402c726e-0b88-45a1-aec7-26e754c026e9/acting_like_a_dragon_thumbnail_0.png) |
+| Aeroplane | e7bb3d8c-811d-442a-bfc5-775556d05d7a | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7fbef691-eefb-45d7-bfcf-db9cb7f7bb53/airplane_thumbnail_0.png) |
 | Ahh Choo! | f9345ebb-4ba3-40e6-ad9b-6bfb10c92890 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/1e00fecc-2805-4f5a-beb5-3a23e28a4193/action_sneeze_thumbnail_0.png) |
-| Airplane | e7bb3d8c-811d-442a-bfc5-775556d05d7a | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7fbef691-eefb-45d7-bfcf-db9cb7f7bb53/airplane_thumbnail_0.png) |
 | Anger Management | a0b1a9f2-0ea4-48d0-8641-ada998beee4d | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/ce530351-26ca-429f-bb99-e7c64b3b4151/anger_thumbnail_0.png) |
 | Ballerina Twirl | 79452f7e-ffa0-470f-8283-f5063348471d | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7baa9df5-9fe6-4b70-8043-1934e7d698bb/dance_ballerina_twirl_thumbnail_0.png) |
 | Big Chuckles | 819f2f36-2a16-440c-8e46-94c6b003a2e0 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2524b76e-e36f-4797-b470-f184bb1dbca1/action_laugh_thumbnail_0.png) |
@@ -24,7 +24,7 @@ A collection of all Minecraft: Bedrock Edition emotes.
 | Cowpoke Dancin' | f99ccd35-ebda-4122-b458-ff8c9f9a432f | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/b81da544-1746-486c-afa6-87cf2dea4444/cowboy_thumbnail_0.png) |
 | Dancing Like Rapunzel | f15ceb56-6651-41c0-8bd5-087951204d81 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/ecc04d08-8372-43df-bd12-d6caa94c04f3/rapunzel_dance_thumbnail_0.png) |
 | Dancing Like Toothless | a12252fa-4ec8-42e0-a7d0-d44fbc90d753 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2006601c-9590-465f-8187-769415cc9504/dragon_mating_dance_thumbnail_0.png) |
-| Diamonds To You! | 86b34976-8f41-475b-a386-385080dc6e83 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/e2d8971a-5b2c-498d-9bdf-714552e89051/celebration_diamond_thumbnail_0.png) |
+| Diamonds to You! | 86b34976-8f41-475b-a386-385080dc6e83 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/e2d8971a-5b2c-498d-9bdf-714552e89051/celebration_diamond_thumbnail_0.png) |
 | Disappointed | a98ea25e-4e6a-477f-8fc2-9e8a18ab7004 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/f576de5d-d5c0-419f-a2ad-1fb8d704321f/disappoint_thumbnail_0.png) |
 | DJing | beb74219-e90c-46aa-8a4b-a1c175f6cab5 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/62ca4132-32eb-438b-8ca1-9fd4c59068e6/dj_ing_thumbnail_0.png) |
 | Doing Aerobics | 2647f538-6fc6-4775-85ae-7f6f2a8065b2 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/5db31075-069d-4806-a9db-cd2ff3d31ad1/aerobics_thumbnail_0.png) |
@@ -64,6 +64,7 @@ A collection of all Minecraft: Bedrock Edition emotes.
 | Minion Cheering | 6174a111-19ac-41d1-a483-0e0b37f9d049 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/86d22940-4c74-47e3-94ae-ac1d0952262b/minions_celebrating_thumbnail_0.png) |
 | Minion Panicking | 79e93b59-38f0-4796-8033-f99d7aa9334e | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/8b13dd00-b9cb-4b15-8235-6ca9ca7a4748/minions_running_scared_thumbnail_0.png) |
 | Minion Taunting | a51f8e7c-a4dd-4ce1-9fc9-2c3cad66cede | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/6a565b56-fa47-410d-b4b9-49d05888a711/minions_taunting_dance_thumbnail_0.png) |
+| Nodding Off | a5f9881c-23b7-4650-8e92-039cd7a16889 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7f85aaf3-1d7d-48c6-a574-c457320ab777/sleeping_thumbnail_0.png) |
 | Offering | 21e0054a-5bf4-468d-bfc4-fc4b49bd44ac | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/03beb174-30ae-40da-aac8-8b1c1e65e6f8/proposal_thumbnail_0.png) |
 | Over Here! | 71721c51-b7d1-46b1-b7ea-eb4c4126c3db | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/1e3a08bb-c5e9-4f6c-b675-82ab7357d93c/lookatme_thumbnail_0.png) |
 | Over There! | ce5c0300-7f03-455d-aaf1-352e4927b54d | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/dcec2666-c46e-4be6-8982-b3c041958cff/communication_point_thumbnail_0.png) |
@@ -83,9 +84,9 @@ A collection of all Minecraft: Bedrock Edition emotes.
 | Sid Dance | 946f04ea-8ff0-416e-a66d-8b0d0751e8bf | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/e717813a-b9dc-4b05-a0da-d932bf31d7b7/sid_dance_thumbnail_0.png) |
 | Simple Clap | 9a469a61-c83b-4ba9-b507-bdbe64430582 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0af89c71-e494-4f79-bb8c-820df77df93d/basic_clap_thumbnail_0.png) |
 | Slimin' | 70831936-d97d-48fe-a7e7-d8894e7c5507 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/9d2c8a60-d370-4458-a2d4-a9c70481b6f8/animation.action_slime_jump_thumbnail_0.png) |
+| Sonic – Victory Spinning | cd8c3bc6-f455-43d2-836e-62c1a19474c7 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/9efb0d30-9045-4d94-9694-9a8d90f169a1/sonic_spin_thumbnail_0.png) |
 | Sonic-Finger Wagging | e8a91ad4-6f7a-479e-9556-e1a7c058351b | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/18ace5a7-c563-4019-82c7-d5e93b52b3a9/sonic_tsk_tsk_thumbnail_0.png) |
 | Sonic-Running | b8e54924-ec3f-409c-8914-bca61fbe9242 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d3163549-c441-4df7-9ddf-d9900d9b953a/sonic_run_thumbnail_0.png) |
-| Sonic-Victory Spinning | cd8c3bc6-f455-43d2-836e-62c1a19474c7 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/9efb0d30-9045-4d94-9694-9a8d90f169a1/sonic_spin_thumbnail_0.png) |
 | Surrendering | daeaaa6f-db91-4461-8617-400c5d1b8646 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/9ebdac42-7f84-4b62-9d7c-851650a30ad3/surrender_thumbnail_0.png) |
 | Swinging Energy Sword | d7680c67-8e54-482a-903d-622ddb43485f | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/86f1ab5a-4292-4ae7-91d7-cd6503d3f99d/sword_thumbnail_0.png) |
 | Sword Flourish | a57277d5-0693-4c8a-9b5c-45c33fdf7c26 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/303a28d8-668c-44a9-b278-5cf95aae0f1a/sword_flourish_thumbnail_0.png) |
@@ -101,7 +102,7 @@ A collection of all Minecraft: Bedrock Edition emotes.
 | Using Jedi Mind Trick | 4b9b9f17-3722-4d38-a6a9-9ba0e8cf5044 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/ce0847b9-43a4-4af2-8a1b-6f0b02631ae0/jedi_mind_trick_thumbnail_0.png) |
 | Victorious | 77053f59-c79b-4d5c-8dc5-539ed28002e9 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/fb2f0847-e5dd-45f0-9265-26eb6a8b14c2/emotion_victory_thumbnail_0.png) |
 | Victory Cheer | d0c60245-538e-4ea2-bdd4-33477db5aa89 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/cacd307c-e85d-4825-8e6e-e3987435961e/cheer_default_thumbnail_0.png) |
-| Warm Up Drills | 6b9c7731-7422-4333-950f-cf3d147ffa47 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a4f35595-bc42-4cc9-be95-6738d58e1485/martial_arts_thumbnail_0.png) |
+| Warm-Up Drills | 6b9c7731-7422-4333-950f-cf3d147ffa47 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a4f35595-bc42-4cc9-be95-6738d58e1485/martial_arts_thumbnail_0.png) |
 | Wave | 4c8ae710-df2e-47cd-814d-cc7bf21a3d67 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/6da99688-53d5-4470-bcc1-a79d07746fba/overhead_wave_thumbnail_0.png) |
 | Waving Like C-3PO | c2d6091d-9f91-4a9e-badd-ef8481353cb0 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/b1fa138b-2c5a-45bc-9aeb-28ba062eef20/c3p0_thumbnail_0.png) |
 | Yoga | 3f1bdf46-80b0-4a64-b631-4ac2f2491165 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/5e84ef4c-ac64-4b67-ae35-01e6b6102565/animation.action_yoga_poses_thumbnail_0.png) |
