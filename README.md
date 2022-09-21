@@ -56,6 +56,7 @@ A collection of all Minecraft: Bedrock Edition emotes.
 | Hugging Themselves | 54e2209a-41ec-4502-8500-dd51e569ab69 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/15c61fa0-ebe5-4ce4-91e2-e76e4a0cb37d/hug_yourself_thumbnail_0.png) |
 | Hungry | d24f27c0-6bc8-4193-842c-8e33fdae5e8e | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/5687e6db-dda4-4b49-a35a-69df57b3495e/hungry_thumbnail_0.png) |
 | Intercom and Attack | 87c039b7-7bdc-45d1-8684-e940a131ec0a | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0e0cdbf6-7638-4f6b-b0eb-1629919dccc2/intercom_and_attack_thumbnail_0.png) |
+| Investigating | c4272178-5e93-4892-b161-1aecdef4a54d | ![](https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a7a6e328-d75c-4d61-895e-3e2687f9555d/investigate_thumbnail_0.png) |
 | Jumping Jacks | b13966b3-1f7c-4f07-8ab8-9d85170203f5 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/65aec57e-0baf-45c3-95be-1c8eaf029850/jumping_jacks_thumbnail_0.png) |
 | Kneeling | 24444aea-cb6e-451f-90fc-b74e57cc7c5d | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2a5eb55d-56f0-4a8a-b8e4-57618a401480/roleplay_getting_knighted_thumbnail_0.png) |
 | Laughing Out Loud | 310b41de-1c7a-4098-928d-addcd905bf65 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/547662b3-8cf6-4362-811c-f10a4710673a/laughing_thumbnail_0.png) |
